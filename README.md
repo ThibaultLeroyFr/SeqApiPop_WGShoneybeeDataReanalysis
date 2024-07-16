@@ -1,4 +1,4 @@
-# Conserved highly heterogeneous landscapes of diversity in honeybees
+# Conserved heterogeneous landscapes of diversity in honeybees
 This script provides general information about the rationale, as well as the scripts used for the reanalysis of the whole-genome sequence data from hundreds of individuals from the SeqApiPop data (Apis mellifera, Wragg et al. 2022), along with data from 3 other Apis species (A. cerana, Chen et al. 2018; A. dorsata & A. laboriosa, Cao et al. 2023). Overal, our objective was to estimate nucleotide diversity of honeybees, evaluate the conservation of their genomic landscapes and infer their demography history. The manuscript is in preparation. Please send an email to <a href="mailto:thibault.leroy@inrae.fr?subject=[SeqApiPopReanalysis-Github]">me </a> for questions regarding these scripts.
 
 ## 1/ Generate a complete VCF (./Pipeline2CompleteVCF)
