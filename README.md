@@ -29,4 +29,4 @@ For this study, we have generated a series of bash scripts that generate the inp
 A simple bash script was also used to parse the output of different runs of DILS (tar.gz files), summarizing the options used for the simulation, the best models and their posterior probabilities, as well as the the values of the main parameters (see <i>script_parsing_output_DILS.sh</i>). <br>
 
 ### 5/ Reconstruct the recent changes in Ne with GONE (./GONE_analysis)
-From a variant-only VCF based on PASS variants, .ped and .map input files for GONE were generated with vcftools (v. 0.1.16), see <i> script_generate_input_plink.sh </i>.
+On a subset of biallelic PASS SNPs, .ped and .map input files for GONE were generated from vcfs with PLINK (v. 1.90b7), see <i> script_subsample_biallelicSNPs_generate_input_plink.sh </i>.
