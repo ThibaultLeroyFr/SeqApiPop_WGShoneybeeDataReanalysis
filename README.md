@@ -1,5 +1,5 @@
 ## Conserved heterogeneous landscapes of diversity in honeybees
-Last update: July 16th, 2024<br>
+Last update: September 4th, 2024<br>
 
 This github webpage provides general information about the rationale of our study, as well as the scripts we generated for the reanalysis of the whole-genome sequence data from hundreds of individuals from the SeqApiPop data (<i>Apis mellifera</i>, Wragg et al. 2022), along with data from 3 other <i>Apis</i> species (<i>A. cerana</i>, Chen et al. 2018; <i>A. dorsata</i> & <i>A. laboriosa</i>, Cao et al. 2023). Overal, our objective was to estimate nucleotide diversity of honeybees, evaluate the conservation of their genomic landscapes and infer their demography history. <br>
 Note that the associated manuscript is currently under preparation. <br> <br> 
